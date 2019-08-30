@@ -1,3 +1,4 @@
 # hello-world
 first repository
-xd
+I love:coffee: :pizza:, and :dancer:
+
